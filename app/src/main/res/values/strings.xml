@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meteo</string>
+    <string name="search_location">Cerca posizione</string>
+    <string name="vento">Vento</string>
+    <string name="umidit">Umidità</string>
+    <string name="possibilit_di_pioggia">Possibilità di pioggia</string>
+</resources>
